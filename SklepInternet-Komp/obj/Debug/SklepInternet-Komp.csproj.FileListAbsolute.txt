@@ -1,0 +1,145 @@
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\roslyn\csc.exe
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\roslyn\Microsoft.CodeAnalysis.dll
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\roslyn\Microsoft.CSharp.Core.targets
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\roslyn\System.Collections.Immutable.dll
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\roslyn\System.Reflection.Metadata.dll
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\roslyn\vbc.exe
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\roslyn\VBCSCompiler.exe
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\roslyn\VBCSCompiler.exe.config
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\SklepInternet-Komp.dll.config
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\SklepInternet-Komp.dll
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\SklepInternet-Komp.pdb
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\Antlr3.Runtime.dll
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\EntityFramework.dll
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\EntityFramework.SqlServer.dll
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\Microsoft.AspNet.Identity.Core.dll
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\Microsoft.AspNet.Identity.Owin.dll
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\Microsoft.Owin.dll
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\Microsoft.Owin.Host.SystemWeb.dll
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\Microsoft.Owin.Security.Cookies.dll
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\Microsoft.Owin.Security.dll
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\Microsoft.Owin.Security.Facebook.dll
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\Microsoft.Owin.Security.Google.dll
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\Microsoft.Owin.Security.OAuth.dll
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\Microsoft.Owin.Security.Twitter.dll
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\Microsoft.Web.Infrastructure.dll
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\Newtonsoft.Json.dll
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\Owin.dll
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\System.Web.Helpers.dll
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\System.Web.Mvc.dll
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\System.Web.Optimization.dll
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\System.Web.Razor.dll
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\System.Web.WebPages.Deployment.dll
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\System.Web.WebPages.dll
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\System.Web.WebPages.Razor.dll
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\WebGrease.dll
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\System.Web.Helpers.xml
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\System.Web.Mvc.xml
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\System.Web.Optimization.xml
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\System.Web.Razor.xml
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\System.Web.WebPages.xml
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\System.Web.WebPages.Deployment.xml
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\System.Web.WebPages.Razor.xml
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\Antlr3.Runtime.pdb
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\Newtonsoft.Json.xml
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\EntityFramework.xml
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\EntityFramework.SqlServer.xml
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\Microsoft.AspNet.Identity.Core.xml
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\Microsoft.AspNet.Identity.Owin.xml
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\Microsoft.Owin.xml
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\Microsoft.Owin.Host.SystemWeb.xml
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\Microsoft.Owin.Security.xml
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\Microsoft.Owin.Security.Facebook.xml
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\Microsoft.Owin.Security.Cookies.xml
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\Microsoft.Owin.Security.OAuth.xml
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\Microsoft.Owin.Security.Google.xml
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\Microsoft.Owin.Security.Twitter.xml
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\obj\Debug\SklepInternet-Komp.dll
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\obj\Debug\SklepInternet-Komp.pdb
+f:\moje dokumenty\visual studio 2015\Projects\SklepInternet-Komp\SklepInternet-Komp\obj\Debug\SklepInternet-Komp.csprojResolveAssemblyReference.cache
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\roslyn\csc.exe
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\roslyn\System.Collections.Immutable.dll
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\roslyn\System.Reflection.Metadata.dll
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\roslyn\vbc.exe
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\roslyn\VBCSCompiler.exe
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\roslyn\VBCSCompiler.exe.config
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\SklepInternet-Komp.dll.config
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\SklepInternet-Komp.dll
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\SklepInternet-Komp.pdb
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\Antlr3.Runtime.dll
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\EntityFramework.dll
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\EntityFramework.SqlServer.dll
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\Microsoft.Owin.dll
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\Microsoft.Owin.Security.dll
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\Microsoft.Owin.Security.Google.dll
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\Microsoft.Web.Infrastructure.dll
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\Newtonsoft.Json.dll
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\Owin.dll
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\System.Web.Helpers.dll
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\System.Web.Mvc.dll
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\System.Web.Optimization.dll
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\System.Web.Razor.dll
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\System.Web.WebPages.Deployment.dll
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\System.Web.WebPages.dll
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\System.Web.WebPages.Razor.dll
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\WebGrease.dll
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\System.Web.Helpers.xml
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\System.Web.Mvc.xml
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\System.Web.Optimization.xml
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\System.Web.Razor.xml
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\System.Web.WebPages.xml
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\System.Web.WebPages.Deployment.xml
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\System.Web.WebPages.Razor.xml
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\Antlr3.Runtime.pdb
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\Newtonsoft.Json.xml
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\EntityFramework.xml
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\EntityFramework.SqlServer.xml
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\Microsoft.Owin.xml
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\Microsoft.Owin.Security.xml
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\Microsoft.Owin.Security.Google.xml
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\obj\Debug\SklepInternet-Komp.csprojResolveAssemblyReference.cache
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\obj\Debug\SklepInternet-Komp.csproj.CoreCompileInputs.cache
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\obj\Debug\SklepInternet-Komp.dll
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\obj\Debug\SklepInternet-Komp.pdb
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\obj\Debug\SklepInternet_Komp.Migrations.InitialCreate.resources
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\obj\Debug\SklepInternet-Komp.csproj.GenerateResource.Cache
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\obj\Debug\SklepInternet_Komp.Migrations.migracja1.resources
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\obj\Debug\SklepInternet_Komp.Migrations.migracja2.resources
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\obj\Debug\SklepInternet_Komp.Migrations.migracja3.resources
+D:\Informatyka\dot NET\Zaliczenie\SklepInternet-Komp\SklepInternet-Komp\obj\Debug\SklepInternet_Komp.Migrations.migracja4.resources

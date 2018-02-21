@@ -1,0 +1,39 @@
+﻿@model IEnumerable<SklepInternet_Komp.Models.TypSprzetu>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+@using (Html.BeginForm())
+{
+    <p>
+        Wyszukiwarka: @Html.TextBox("filter")
+        <input type="submit" value="Wyślij" />
+    </p>
+}
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.NazwaTypu)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.NazwaTypu)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.IdTypu }) |
+            @Html.ActionLink("Details", "Details", new { id=item.IdTypu }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.IdTypu })
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,53 @@
+﻿@model IEnumerable<SklepInternet_Komp.Models.Producent>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@using (Html.BeginForm())
+{
+    <p>
+            Wyszukiwarka: @Html.TextBox("filter")
+        <input type="submit" value="Wyślij" />
+    </p>
+}
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.NazwaProducenta)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RokZalozenia)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Panstwo)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.NazwaProducenta)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.RokZalozenia)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Panstwo)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.IdProducenta }) |
+            @Html.ActionLink("Details", "Details", new { id=item.IdProducenta }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.IdProducenta })
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,42 @@
+﻿@model SklepInternet_Komp.Models.Producent
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Producent</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.NazwaProducenta)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NazwaProducenta)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.RokZalozenia)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.RokZalozenia)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Panstwo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Panstwo)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.IdProducenta }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
